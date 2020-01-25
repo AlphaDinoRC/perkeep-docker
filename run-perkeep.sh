@@ -4,7 +4,7 @@
 
 CONFIG="/config/server-config.json"
 KEYRING="/config/identity-secring.gpg"
-USERPASS="perkeep:perkeep"
+USERPASS="ixxo:ixxopass2611"
 
 set -e
 
